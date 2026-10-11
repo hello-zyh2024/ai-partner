@@ -1,0 +1,16 @@
+# 密钥，绝对不能提交
+.streamlit/secrets.toml
+.env
+
+# 运行时生成的会话记录
+sessions/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# IDE
+.idea/
+.vscode/
